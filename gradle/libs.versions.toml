@@ -42,7 +42,7 @@ text-recognition-chinese = { module = "com.google.mlkit:text-recognition-chinese
 text-recognition-devanagari = { module = "com.google.mlkit:text-recognition-devanagari", version.ref = "textRecognitionDevanagari" }
 text-recognition-japanese = { module = "com.google.mlkit:text-recognition-japanese", version.ref = "textRecognitionJapanese" }
 text-recognition-korean = { module = "com.google.mlkit:text-recognition-korean", version.ref = "textRecognitionKorean" }
-
+androidx-material-icons-extended = {  group = "androidx.compose.material", name = "material-icons-extended"}
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
